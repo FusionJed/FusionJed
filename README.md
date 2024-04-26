@@ -1,4 +1,4 @@
-<h3 align="center">A passionate developer from PH</h3>
+<h3 align="center"Passionate about Coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fusionjed&label=Profile%20views&color=0e75b6&style=flat" alt="fusionjed" /> </p>
 
